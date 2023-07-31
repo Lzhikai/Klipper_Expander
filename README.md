@@ -27,10 +27,10 @@
 ------------------------------------------------------------    
 # <p align="center">Show</p>    
 <p align="center" >
-    <img  src="/images/Show1.jpg" width="420" height="500">
-    <img  src="/images/Show2.jpg" width="420" height="500">
+    <img  src="/images/Show1.jpg" width="220" height="300">
+    <img  src="/images/Show2.jpg" width="220" height="300">
 </p>
 <p align="center" >
-    <img  src="/images/Show3.jpg" width="420" height="300">
-    <img  src="/images/Show4.jpg" width="420" height="500">
+    <img  src="/images/Show3.jpg" width="220" height="150">
+    <img  src="/images/Show4.jpg" width="220" height="300">
 </p>    
