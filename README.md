@@ -5,7 +5,14 @@
 <p align="center" >
     <img  src="/images/wiring%20diagram.jpg">
 </p>    
+    
+# Indicator light    
+*    ## [D1] Connection status light    
+*    ## [D2-D5] Switch on indicator    
+*    ## [D6] 5V status light    
+*    ## [D7] VINSupply status        
 
+--------------------------------------------------    
 ### 1.Download the [klipperExpander.cfg](/klipperExpander.cfg) file and upload it to the klipper configuration folder    
 ![](/images/1.png)    
 ### 2.You need to add the configuration of the inside the `printer.cfg` file.    
