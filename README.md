@@ -16,7 +16,8 @@
 
 ------------------------------------------------------------    
 
-## Compile Configuration    
+## Compile Configuration
+## (By default, the firmware has been burned. Please do not update it unless there are no issues)    
 <img  src="/images/Menuconfig_Options.png">    
 
 ------------------------------------------------------------ 
