@@ -3,7 +3,7 @@
 
 # <p align="center">|-------[中文](/CNREADME.md "中文说明")-------|</p>    
 <p align="center" >
-    <img  src="/images/中文接线图.png">
+    <img  src="/images/中文版接线.png">
 </p>    
 
 ### 1.下载 [klipperExpander.cfg](/klipperExpander.cfg) 文件，然后将文件上传到klipper的配置文件夹目录   
