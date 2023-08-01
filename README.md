@@ -1,7 +1,7 @@
 # <p align="center">Klipper_Expander</p>    
 <p align="center">https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander</p>    
 
-# <p align="center">|-------[English](/README.md "English Notes")---------------------[中文](/CNREADME.md "中文说明")-------|</p>    
+# <p align="center">|---[English](/README.md "English Notes")--切换语言--[中文](/CNREADME.md "中文说明")---|</p>    
 <p align="center" >
     <img  src="/images/wiring.png">
 </p>    
