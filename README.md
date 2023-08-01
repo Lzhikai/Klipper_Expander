@@ -3,7 +3,7 @@
 
 # <p align="center">|---[English](/README.md "English Notes")--切换语言--[中文](/CNREADME.md "中文说明")---|</p>    
 <p align="center" >
-    <img  src="/images/wiring.png">
+    <img  src="/images/wiring%20diagram.jpg">
 </p>    
 
 ### 1.Download the [klipperExpander.cfg](/klipperExpander.cfg) file and upload it to the klipper configuration folder    
